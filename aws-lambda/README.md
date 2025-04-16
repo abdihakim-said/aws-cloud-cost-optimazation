@@ -3,7 +3,9 @@
 ---
 
 #### **Client Background**
-A mid-sized SaaS company, **CloudTech Solutions**, approached our consultancy firm with concerns about their rising AWS costs. The company operates in a fast-paced development environment with multiple teams creating and terminating EC2 instances and EBS volumes daily. Over time, their AWS bill had grown significantly, and they lacked visibility into unused resources contributing to the cost.
+A mid-sized SaaS company, approached our consultancy firm with concerns about their rising AWS costs. 
+The company operates in a fast-paced development environment with multiple teams creating and terminating EC2 instances and EBS volumes daily. 
+Over time, their AWS bill had grown significantly, and they lacked visibility into unused resources contributing to the cost.
 
 ---
 
