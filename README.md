@@ -1,6 +1,12 @@
 # **AWS Cloud Cost Optimization: Why Organizations Need It**
+![cost_opt_example_aws_b29b496952](https://github.com/user-attachments/assets/43452019-b146-47e8-be21-939e4dcdb0be)
 
 ---
+
+
+
+
+
 
 ## **Overview**
 
