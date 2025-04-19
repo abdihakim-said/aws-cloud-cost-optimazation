@@ -1,8 +1,9 @@
 ### Real-World Scenario: EBS Snapshot Cleanup for Cost Optimization
 
 ---
+![ebs-stale-snapshots](https://github.com/user-attachments/assets/feb5ba8b-5165-4950-a6b0-ae0788d05e77)
 
-![Uploading Screenshot 2025-04-16 at 17.55.12.png…]()
+
 
 
 #### **Client Background**
