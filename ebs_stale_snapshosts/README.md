@@ -2,6 +2,9 @@
 
 ---
 
+![Uploading Screenshot 2025-04-16 at 17.55.12.png…]()
+
+
 #### **Client Background**
 A mid-sized SaaS company, approached our consultancy firm with concerns about their rising AWS costs. 
 The company operates in a fast-paced development environment with multiple teams creating and terminating EC2 instances and EBS volumes daily. 
